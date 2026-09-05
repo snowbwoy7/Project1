@@ -8,9 +8,8 @@ img{ max-width: 100%; height: auto; margin-top: 20px; border-radius: 10px; box-s
 .service-card{display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: green; width:300px; margin:10px; padding: 2px; gap: 10px; text-align: center; border: solid white; color: white; position: relative; left: 0px; }
 .services-section{display:flex; flex-direction: column; flex-wrap: wrap; align-items: center;}
 .services-cards{display: flex; flex-direction:row; justify-content: center; align-items: center; flex-wrap: wrap;}
-.other-section{margin-left: 20px;}  
-.copyright{font-size: 12px; color: white; text-align: center; margin-top: 10px;}
-
+.other-section{padding-left: 20px;}  
+.copyright{ text-align: center; height: 20px; } 
 
 
 
