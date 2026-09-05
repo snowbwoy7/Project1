@@ -1,19 +1,13 @@
  h1{ background-color: green; display: inline-block; position: sticky; top: 0; color: white; font-style: italic;}
-p.tagline{ background-color: green; display: inline-block; position: fixed; top: 0; right: 0; color: white; font-style: bold;}
-body{ background-color: lightblue; font-family: Arial, sans-serif; margin: 0; padding: 0;}
+p.tagline{ background-color: green; display: inline-block; position: fixed; top: 0; right: 0; color: white; font-style: italic; font-weight: bold; }
+body{ background-color: lightgreen; font-family: Arial, sans-serif; margin: 0; padding: 0;}
 .hero-section{ background-image: url('car.jpg'); background-size: cover; background-position: center; height: 100vh; display: flex; align-items: center; justify-content: center;}
 .hero-content{ text-align: center; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; width: 80%; max-width: 600px; }
 img{ max-width: 100%; height: auto; margin-top: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);}
 .hero-section button{ background-color: white; color: green; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px; margin-top: 20px;}
-.service-card{display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: green; width:300px; margin:10px; padding: 2px; gap: 10px; text-align: center; border: solid white; color: white; }
-.services-section{display:flex; flex-direction: row: justify-content: center; flex-wrap: wrap; align-item: center; width:}
-h2{text-align: center; color: green; background-color: white; width:fit-content; margin: 0 auto;}
-
-
-
-
-
-
+.service-card{display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: green; width:300px; margin:10px; padding: 2px; gap: 10px; text-align: center; border: solid white; color: white; position: relative; left: 0px; }
+.services-section{display:flex; flex-direction: column; flex-wrap: wrap; align-items: center;}
+.services-cards{display: flex; flex-direction:row; justify-content: center; align-items: center; flex-wrap: wrap;}
 
 
 
