@@ -6,7 +6,7 @@ body{ background-color: lightgrey; font-family: Arial, sans-serif; margin: 0; pa
 img{ max-width: 100%; height: auto; margin-top: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);}
 .hero-section button{ background-color: white; color: green; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px; margin-top: 20px;}
 .service-card{display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: green; width:300px; margin:10px; padding: 2px; gap: 10px; text-align: center; border: solid white; color: white; }
-.services-section{display:flex; flex-direction: column; flex-wrap: wrap; align-items: center;}
+.services-section{display:flex; flex-direction: column; flex-wrap: wrap; align-items: center; margin-top: 30px;}
 .services-cards{display: flex; flex-direction:row; justify-content: center; align-items: center; flex-wrap: wrap;}
 .other-section{padding-left: 20px; margin: 20px;}  
 .copyright{ text-align: center; font-style: italic; font-weight: bold;} 
