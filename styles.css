@@ -15,7 +15,8 @@ img{ max-width: 100%; height: auto; margin-top: 20px; border-radius: 10px; box-s
 .other-services h2{background-color: green; width: fit-content; color: white; }
 .other-section p{color: solid black; max-width: 600px;}
 .our{background-color: green; color: white;}
-
+.footer{background-color: darkslategray;color: white;}
+.footer h2{background-color: darkslategray;}
 
 
 
