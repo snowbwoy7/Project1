@@ -1,5 +1,5 @@
- h1{ background-color: green; display: inline-block; color: white; font-style: italic;}
-p.tagline{ background-color: green; display: inline-block; position: absolute; top: 50px; left: 10px; color: white; font-style: italic; }
+ h1{ background-color: green; display: inline-block; color: white; font-style: italic; position: relative; left: 20px;}
+p.tagline{ background-color: green; width:fit-content; position: absolute; top: 50px; left: 20px; color: white; font-style: italic; }
 body{ background-color: lightgrey; font-family: Arial, sans-serif; margin: 0; padding: 0;}
 .hero-section{ background-image: url('car.jpg'); background-size: cover; background-position: center; height: 100vh; display: flex; align-items: center; justify-content: center;}
 .hero-content{ text-align: center; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; width: 80%; max-width: 600px; }
